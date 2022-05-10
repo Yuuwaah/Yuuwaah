@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yuuwaah
 - 👀 I’m interested in anything tech related
 - 🌱 I’m currently learning product design
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Ui/UX and other tech related courses that can help me transition into tech fully
 - 📫 How to reach me ...
 
 <!---
